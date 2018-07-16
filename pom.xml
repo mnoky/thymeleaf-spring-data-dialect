@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.github.mnoky</groupId>
 	<artifactId>thymeleaf-spring-data-dialect</artifactId>
-	<version>3.3.1.5</version>
+	<version>3.3.1.6</version>
 	
 	<name>Thymeleaf Spring Data Dialect</name>
 	<description>Data pagination made easy with Thymeleaf and Spring Data</description>
@@ -24,13 +24,13 @@
 			<organizationUrl>https://github.com/mnoky</organizationUrl>
 		</developer>
 	</developers>
-
+	<!--
 	<scm>
 		<connection>scm:git:git://github.com/mnoky/thymeleaf-spring-data-dialect.git</connection>
 		<developerConnection>scm:git:git@github.com:mnoky/thymeleaf-spring-data-dialect.git</developerConnection>
 		<url>git@github.com:mnoky/thymeleaf-spring-data-dialect.git</url>
 	</scm>
-
+	-->
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
